@@ -1,0 +1,16 @@
+{
+  "name": "day_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "dependencies": {
+    "jest": "^29.7.0",
+    "node-fetch": "^3.3.2"
+  }
+}
